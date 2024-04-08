@@ -1,2 +1,2 @@
 # cloudflare.tailscalepkgs-reverse-proxy
-Use Cloudflare Worker to handle the Tailscale Packages site.
+Use Cloudflare proxy servers in regions with high network latency to Tailscale Package servers :)
